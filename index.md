@@ -11,7 +11,7 @@ I am a Computer Science student and 1870 Full Tuition Scholar with expertise in 
 
 ## Work
 * <a href="https://its.syr.edu" target="_blank">ITS</a> at Syracuse University, Student Consultant
-<!-- * <a href="https://www.hinduyuva.org">Hindu YUVA</a>, Web Developer Intern -->
+* <a href="https://www.hinduyuva.org">Hindu YUVA</a>, Software Engineer
 * <a href="https://www.linkedin.com/company/tracextech/" target="_blank">TraceX Technologies</a>, Software Engineer Intern
 * <a href="https://www.linkedin.com/company/cisco/" target="_blank">Cisco</a>, Software Engineer Intern
 
